@@ -4,7 +4,6 @@ import string
 import os
 import time
 
-# Print the ASCII banner using pyfiglet
 ascii_banner = pyfiglet.figlet_format("Password Generator - Made By Exploits")
 print(ascii_banner)
 
